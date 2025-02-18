@@ -1,1 +1,1 @@
-hover state assignment | Designing for Digital Ecosystem
+"Hover State" buttons assignment for my Designing for Digital Ecosystem module
